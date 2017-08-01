@@ -1,1 +1,1 @@
-# GifProject
+# GifTastic
